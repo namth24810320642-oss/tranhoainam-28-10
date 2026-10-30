@@ -9,13 +9,15 @@
 
 ## KẾT QUẢ THỰC HÀNH
 
-# bai5.1
+# bai5.3
 
-<img width="448" height="385" alt="bai5 1" src="https://github.com/user-attachments/assets/b5970aee-ef90-431a-b10d-324fa171693f" />
+<img width="1003" height="730" alt="bai5 3" src="https://github.com/user-attachments/assets/bc6109cd-f122-40fa-b2cd-ee5c86ad1593" />
 
-# bai5.2
+# bai5.4
 
-<img width="495" height="557" alt="bai5 2" src="https://github.com/user-attachments/assets/a25c79ba-1830-4156-9f24-113bd81611c6" />
+<img width="906" height="605" alt="5 4" src="https://github.com/user-attachments/assets/e788e614-0326-4385-9092-1c7482372858" />
 
-# sql
-<img width="567" height="235" alt="sql" src="https://github.com/user-attachments/assets/deb2300e-60d5-46be-99b5-f55f0041a8a4" />
+# bai5.5 
+
+<img width="771" height="638" alt="bai5 5" src="https://github.com/user-attachments/assets/ca192806-e420-4044-aad3-9aff472fabf2" />
+
